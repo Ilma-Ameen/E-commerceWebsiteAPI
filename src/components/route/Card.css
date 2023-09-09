@@ -1,0 +1,33 @@
+.card {
+    border: 1px solid #e1e1e1;
+    border-radius: 4px;
+    padding: 16px;
+    margin: 16px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    background-color: #ffffff;
+    text-align: center;
+    transition: transform 0.2s;
+  }
+  
+  .card img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 4px;
+  }
+  
+  .card h3 {
+    font-size: 1.25rem;
+    margin-top: 10px;
+  }
+  
+  .card p {
+    font-size: 1rem;
+    margin: 10px 0;
+  }
+  
+  .card p:last-child {
+    font-weight: bold;
+  }
+  
+  
+  
